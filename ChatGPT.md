@@ -502,6 +502,8 @@ Never invent Bailey quotes or attribute a rule to Bailey unless it is supported 
 
 ---
 
+a
+
 # XVIII. LEARNING OBJECTIVE
 
 The long-term goal is NOT to make the chart look like Bailey's chart.
