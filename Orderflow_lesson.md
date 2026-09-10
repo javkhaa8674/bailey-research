@@ -1,24 +1,24 @@
-Order Flow гэж юу вэ?
-Market Order / Limit Order
-Bid / Ask
-Footprint
-Aggressive Buyer
-Aggressive Seller
-Passive Buyer
-Passive Seller
-Delta
-Delta + Price
-Delta Shift
-Delta Divergence
-Absorption
-Buyer Absorption
-Seller Absorption
-POC
-Candle POC
-POC Migration
-Volume Profile
-POC / VAH / VAL
-HVN / LVN
+Order Flow гэж юу вэ? -үзсэн
+Market Order / Limit Order -үзсэн
+Bid / Ask -үзсэн
+Footprint -үзсэн
+Aggressive Buyer -үзсэн
+Aggressive Seller -үзсэн
+Passive Buyer -үзсэн
+Passive Seller -үзсэн
+Delta -үзсэн
+Delta + Price -үзсэн
+Delta Shift -үзсэн
+Delta Divergence -үзсэн
+Absorption -үзсэн
+Buyer Absorption -үзсэн
+Seller Absorption -үзсэн
+POC -үзсэн
+Candle POC -үзсэн
+POC Migration -үзсэн
+Volume Profile -үзсэн
+POC / VAH / VAL -үзсэн
+HVN / LVN -үзсэн
 Acceptance / Rejection
 Auction Theory
 Auction Extreme
